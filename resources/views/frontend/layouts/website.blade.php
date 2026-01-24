@@ -1,0 +1,11 @@
+@extends('frontend.layouts.main')
+@section('content')
+    @include('frontend.hero.hero')
+    @include('frontend.choose.chose')
+    @include('frontend.course.course')
+    @include('frontend.teacher.teacher')
+    @include('frontend.event.event')
+    @include('frontend.pricing.pricing')
+    @include('frontend.contact.contact')
+    @include('frontend.components.footer')
+@endsection
