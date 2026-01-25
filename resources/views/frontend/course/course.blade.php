@@ -13,7 +13,7 @@
 
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="zoom-in" data-aos-delay="100">
                 <div class="course-item">
-                    <img src="assets/img/course-1.jpg" class="img-fluid" alt="...">
+                    <img src="{{asset('frontend/img/course-1.jpg')}}" class="img-fluid" alt="...">
                     <div class="course-content">
                         <div class="d-flex justify-content-between align-items-center mb-3">
                             <p class="category">Web Development</p>
@@ -24,7 +24,7 @@
                         <p class="description">Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
                         <div class="trainer d-flex justify-content-between align-items-center">
                             <div class="trainer-profile d-flex align-items-center">
-                                <img src="assets/img/trainers/trainer-1-2.jpg" class="img-fluid" alt="">
+                                <img src="{{asset('frontend/img/trainers/trainer-1-2.jpg')}}" class="img-fluid" alt="">
                                 <a href="" class="trainer-link">Antonio</a>
                             </div>
                             <div class="trainer-rank d-flex align-items-center">
@@ -39,7 +39,7 @@
 
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
                 <div class="course-item">
-                    <img src="assets/img/course-2.jpg" class="img-fluid" alt="...">
+                    <img src="{{asset('frontend/img/course-2.jpg')}}" class="img-fluid" alt="...">
                     <div class="course-content">
                         <div class="d-flex justify-content-between align-items-center mb-3">
                             <p class="category">Marketing</p>
@@ -50,7 +50,7 @@
                         <p class="description">Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
                         <div class="trainer d-flex justify-content-between align-items-center">
                             <div class="trainer-profile d-flex align-items-center">
-                                <img src="assets/img/trainers/trainer-2-2.jpg" class="img-fluid" alt="">
+                                <img src="{{asset('frontend/img/trainers/trainer-2-2.jpg')}}" class="img-fluid" alt="">
                                 <a href="" class="trainer-link">Lana</a>
                             </div>
                             <div class="trainer-rank d-flex align-items-center">
@@ -65,7 +65,7 @@
 
             <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
                 <div class="course-item">
-                    <img src="assets/img/course-3.jpg" class="img-fluid" alt="...">
+                    <img src="{{asset('frontend/img/course-3.jpg')}}" class="img-fluid" alt="...">
                     <div class="course-content">
                         <div class="d-flex justify-content-between align-items-center mb-3">
                             <p class="category">Content</p>
@@ -76,7 +76,7 @@
                         <p class="description">Et architecto provident deleniti facere repellat nobis iste. Id facere quia quae dolores dolorem tempore.</p>
                         <div class="trainer d-flex justify-content-between align-items-center">
                             <div class="trainer-profile d-flex align-items-center">
-                                <img src="assets/img/trainers/trainer-3-2.jpg" class="img-fluid" alt="">
+                                <img src="{{asset('frontend/img/trainers/trainer-3-2.jpg')}}" class="img-fluid" alt="">
                                 <a href="" class="trainer-link">Brandon</a>
                             </div>
                             <div class="trainer-rank d-flex align-items-center">
