@@ -7,10 +7,10 @@
                     <span class="sitename">Mentor</span>
                 </a>
                 <div class="footer-contact pt-3">
-                    <p>A108 Adam Street</p>
-                    <p>New York, NY 535022</p>
-                    <p class="mt-3"><strong>Phone:</strong> <span>+1 5589 55488 55</span></p>
-                    <p><strong>Email:</strong> <span>info@example.com</span></p>
+                    <p>Post Office Dakh Khanah Khas,</p>
+                    <p>Jalalabad, Gilgit. 15100</p>
+                    <p class="mt-3"><strong>Phone:</strong> <span>+92 31685 37631</span></p>
+                    <p><strong>Email:</strong> <span>hajathussainofficial@gmail.com</span></p>
                 </div>
                 <div class="social-links d-flex mt-4">
                     <a href=""><i class="bi bi-twitter-x"></i></a>
@@ -45,7 +45,7 @@
             <div class="col-lg-4 col-md-12 footer-newsletter">
                 <h4>Our Newsletter</h4>
                 <p>Subscribe to our newsletter and receive the latest news about our products and services!</p>
-                <form action="forms/newsletter.php" method="post" class="php-email-form">
+                <form action="#" method="post" class="php-email-form">
                     <div class="newsletter-form"><input type="email" name="email"><input type="submit" value="Subscribe"></div>
                     <div class="loading">Loading</div>
                     <div class="error-message"></div>
@@ -57,13 +57,13 @@
     </div>
 
     <div class="container copyright text-center mt-4">
-        <p>© <span>Copyright</span> <strong class="px-1 sitename">Mentor</strong> <span>All Rights Reserved</span></p>
+        <p>© <span>Copyright</span> <strong class="px-1 sitename">School</strong> <span>All Rights Reserved</span></p>
         <div class="credits">
             <!-- All the links in the footer should remain intact. -->
             <!-- You can delete the links only if you've purchased the pro version. -->
             <!-- Licensing information: https://bootstrapmade.com/license/ -->
             <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
-            Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a> Distributed by <a href=“https://themewagon.com>ThemeWagon
+            Designed by <a href="#">Hajat Hussain</a>
         </div>
     </div>
 

@@ -9,9 +9,13 @@ class WebsiteController extends Controller
     /**
      * Display a listing of the resource.
      */
-    public function hero()
+    public function main()
     {
-        return view('frontend.hero.hero');
+        return view('frontend.layouts.website');
+    }
+    public function getStart()
+    {
+        return view('frontend.course.course');
     }
 
     /**
