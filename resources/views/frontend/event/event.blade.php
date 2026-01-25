@@ -29,7 +29,7 @@
             <div class="col-md-6 d-flex align-items-stretch">
                 <div class="card">
                     <div class="card-img">
-                        <img src="assets/img/events-item-1.jpg" alt="...">
+                        <img src="{{asset('frontend/img/events-item-1.jpg')}}" alt="...">
                     </div>
                     <div class="card-body">
                         <h5 class="card-title"><a href="">Introduction to webdesign</a></h5>
@@ -41,7 +41,7 @@
             <div class="col-md-6 d-flex align-items-stretch">
                 <div class="card">
                     <div class="card-img">
-                        <img src="assets/img/events-item-2.jpg" alt="...">
+                        <img src="{{asset('frontend/img/events-item-2.jpg')}}" alt="...">
                     </div>
                     <div class="card-body">
                         <h5 class="card-title"><a href="">Marketing Strategies</a></h5>
