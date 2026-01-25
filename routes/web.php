@@ -7,5 +7,4 @@ Route::get('/', function () {
     return view('frontend.layouts.website');
 });
 
-Route::get('/main',[WebsiteController::class,'main'])->name('hero');
 Route::get('/get-start',[WebsiteController::class,'getStart'])->name('get-start');
