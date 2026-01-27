@@ -52,7 +52,7 @@
                     <i class="bi bi-envelope flex-shrink-0"></i>
                     <div>
                         <h3>Email Us</h3>
-                        <p>info@example.com</p>
+                        <p>hajathussainofficial@example.com</p>
                     </div>
                 </div><!-- End Info Item -->
 
