@@ -6,5 +6,5 @@ use App\Http\Controllers\WebsiteController;
 Route::get('/', function () {
     return view('frontend.layouts.website');
 });
-
+Route::get('/home',[WebsiteController::class,'home'])->name('home');
 Route::get('/get-start',[WebsiteController::class,'getStart'])->name('get-start');
