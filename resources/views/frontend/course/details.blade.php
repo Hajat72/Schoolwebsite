@@ -1,5 +1,5 @@
-@extends('frontend.layouts.main')
-@section('content')
+{{--@extends('frontend.layouts.main')--}}
+{{--@section('content')--}}
 
 <!-- Page Title -->
 <div class="page-title" data-aos="fade">
@@ -187,4 +187,4 @@
 
 </section><!-- /Tabs Section -->
 
-@endsection
+{{--@endsection--}}
