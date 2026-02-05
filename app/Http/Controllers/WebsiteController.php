@@ -12,9 +12,14 @@ class WebsiteController extends Controller
     public function home()
     {
         return view('frontend.layouts.website');
-    }public function getStart()
+    }
+    public function getStart()
     {
-        return view('frontend.course.course');
+        return view('frontend.course.course1');
+    }
+    public function aboutDetails()
+    {
+        return view('frontend.about.details');
     }
 
     /**
