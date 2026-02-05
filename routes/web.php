@@ -10,3 +10,4 @@ Route::get('/home',[WebsiteController::class,'home'])->name('home');
 Route::get('/get-start',[WebsiteController::class,'getStart'])->name('get-start');
 Route::get('/courses',[WebsiteController::class,'getStart'])->name('courses');
 Route::get('/about',[WebsiteController::class,'aboutDetails'])->name('about-page');
+Route::get('/course-details',[WebsiteController::class,'courseDetail'])->name('course-details-page');
