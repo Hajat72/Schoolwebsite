@@ -33,6 +33,10 @@ class WebsiteController extends Controller
     {
         return view('frontend.event.event');
     }
+    public function pricing()
+    {
+        return view('frontend.pricing.pricing');
+    }
 
     /**
      * Show the form for creating a new resource.
