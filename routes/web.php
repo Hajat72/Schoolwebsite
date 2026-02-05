@@ -12,3 +12,4 @@ Route::get('/courses',[WebsiteController::class,'getStart'])->name('courses');
 Route::get('/about',[WebsiteController::class,'aboutDetails'])->name('about-page');
 Route::get('/course-details',[WebsiteController::class,'courseDetail'])->name('course-details-page');
 Route::get('/teacher',[WebsiteController::class,'teacher'])->name('teacher-page');
+Route::get('/event',[WebsiteController::class,'event'])->name('event-page');
