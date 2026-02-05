@@ -12,7 +12,7 @@
                 <li><a href="{{route('home')}}" class="active">Home<br></a></li>
                 <li><a href="{{route('about-page')}}">About</a></li>
                 <li><a href="{{route('courses')}}">Courses</a></li>
-                <li><a href="trainers.html">Trainers</a></li>
+                <li><a href="{{route('teacher-page')}}">Trainers</a></li>
                 <li><a href="events.html">Events</a></li>
                 <li><a href="pricing.html">Pricing</a></li>
 {{--                <li class="dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>--}}

@@ -25,6 +25,10 @@ class WebsiteController extends Controller
     {
         return view('frontend.course.details');
     }
+    public function teacher()
+    {
+        return view('frontend.teacher.details');
+    }
 
     /**
      * Show the form for creating a new resource.
