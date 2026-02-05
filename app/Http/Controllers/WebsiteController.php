@@ -37,6 +37,10 @@ class WebsiteController extends Controller
     {
         return view('frontend.pricing.pricing');
     }
+    public function contact()
+    {
+        return view('frontend.contact.contact');
+    }
 
     /**
      * Show the form for creating a new resource.
