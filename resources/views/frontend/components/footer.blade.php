@@ -4,13 +4,13 @@
         <div class="row gy-4">
             <div class="col-lg-4 col-md-6 footer-about">
                 <a href="index.html" class="logo d-flex align-items-center">
-                    <span class="sitename">Govt Boys High School Jalalabad </span>
+                    <span class="sitename">MS Bloomrise Girls School & College Gilgit</span>
                 </a>
                 <div class="footer-contact pt-3">
-                    <p>Post Office Dakh Khanah Khas,</p>
-                    <p>Jalalabad, Gilgit. 15100</p>
-                    <p class="mt-3"><strong>Phone:</strong> <span>+92 31685 37631</span></p>
-                    <p><strong>Email:</strong> <span>hajathussainofficial@gmail.com</span></p>
+                    <p>Khomar Gilgit,</p>
+                    <p>Distric Gilgit 15100</p>
+                    <p class="mt-3"><strong>Phone:</strong> <span>+92 3xx xxxx xxx</span></p>
+                    <p><strong>Email:</strong> <span>infomsbloomrise@gmail.com</span></p>
                 </div>
                 <div class="social-links d-flex mt-4">
                     <a href=""><i class="bi bi-twitter-x"></i></a>
@@ -57,13 +57,13 @@
     </div>
 
     <div class="container copyright text-center mt-4">
-        <p>© <span>Copyright</span> <strong class="px-1 sitename">Govt Boys High School Jalalabad</strong> <span>All Rights Reserved</span></p>
+        <p>© <span>Copyright</span> <strong class="px-1 sitename">MS Bloomrise Girls School & College Gilgit</strong> <span>All Rights Reserved</span></p>
         <div class="credits">
             <!-- All the links in the footer should remain intact. -->
             <!-- You can delete the links only if you've purchased the pro version. -->
             <!-- Licensing information: https://bootstrapmade.com/license/ -->
             <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
-            Designed by <a href="#">Hajat Hussain</a>
+            Designed by <a href="#">Rahat Abbas</a>
         </div>
     </div>
 

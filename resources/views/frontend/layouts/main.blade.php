@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <title>Govt Boys High School Jalalabad</title>
+    <title>MS BLOOMRISE GIRLS SCHOOL & COLLEGE GILGIT</title>
     <meta name="description" content="">
     <meta name="keywords" content="">
 
